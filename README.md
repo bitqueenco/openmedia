@@ -1,4 +1,4 @@
-# OpenMediaForge
+# OpenMediaForge by Baba Hayden
 
 **Local-first, provider-neutral AI media command desk** — a creator-grade workstation for planning generations, managing references, running jobs, and keeping **honest provenance** (queue → receipt → project packet). Current release: **`0.5.2-alpha`** ([`package.json`](./package.json)). Built clean-room: not a fork of MuAPI, Open-Generative-AI, or other stacks.
 
